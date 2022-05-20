@@ -8,10 +8,11 @@
 }
 
 body {
-  background-color: #f43268;
+  background-color: #312f3e;
 }
 
 .card-container {
+  margin-top: 6rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
